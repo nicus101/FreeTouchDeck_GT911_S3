@@ -6,7 +6,7 @@
 [![](https://badgen.net/badge/watch/on%20youtube/ff0000)](https://www.youtube.com/watch?v=s2X4BQ9VmEU)
 [![](https://img.shields.io/twitter/follow/DustinWattsNL)](https://twitter.com/DustinWattsNL)
 
-
+Added another GT911 touchscreen driver that works with ESP32 S3 boards.
 
 For interfacing with Windows/macOS/Linux using an ESP32, a touchscreen and BLE. 
 
